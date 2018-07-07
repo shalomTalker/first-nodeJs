@@ -1,0 +1,17 @@
+[
+  {
+    "userName": "shalom",
+    "title": "shalom`s notes",
+    "notes" : ["clean the house","take the car to garagge","go to the bank"]
+  },
+  {
+    "userName": "liran",
+    "title": "liran`s notes",
+    "notes" : ["clean the house","take the car to garagge","go to the bank"]
+  },
+  {
+    "userName": "tal",
+    "title": "tal`s notes",
+    "notes" : ["clean the house","take the car to garagge","go to the bank"]
+  }
+]
